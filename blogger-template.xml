@@ -1,0 +1,75 @@
+<pre>
+<!-- Blogger Template with Modern, Clean, and Elegant Magazine Style Layout -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>Your Blog Title</title>
+    <style>
+        /* Responsive Design */
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        .container { width: 80%; margin: auto; overflow: hidden; }
+        header { background: #333; color: #fff; padding: 20px 0; text-align: center; }
+        nav { background: #444; color: #fff; padding: 10px; }
+        nav ul { list-style: none; padding: 0; }
+        nav ul li { display: inline; margin-right: 10px; }
+        nav a { color: #fff; text-decoration: none; }
+        .sidebar { width: 30%; float: right; }
+        .main { width: 65%; float: left; }
+        footer { clear: both; text-align: center; background: #333; color: #fff; padding: 10px 0; }
+        /* Fast Loading Optimization */
+        img { max-width: 100%; height: auto; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Blog Name</h1>
+        <p>Welcome to my blog</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href='#'>Home</a></li>
+            <li><a href='#'>About</a></li>
+            <li><a href='#'>Contact</a></li>
+            <li><a href='#'>Subscribe</a></li>
+        </ul>
+    </nav>
+    <div class='container'>
+        <div class='main'>
+            <!-- Slideshow and Posts -->
+            <div class='slideshow'>
+                <!-- Slideshow content here -->
+            </div>
+            <div class='posts'>
+                <h2>Recent Posts</h2>
+                <article>
+                    <h3>Post Title</h3>
+                    <p>Post content here...</p>
+                </article>
+                <article>
+                    <h3>Post Title</h3>
+                    <p>Post content here...</p>
+                </article>
+                <!-- Add more posts as needed -->
+            </div>
+        </div>
+        <aside class='sidebar'>
+            <div class='email-subscription'>
+                <h2>Subscribe to our newsletter</h2>
+                <input type='email' placeholder='Your Email'>
+                <button>Subscribe</button>
+            </div>
+            <div class='social-bookmarks'>
+                <h2>Follow Us</h2>
+                <a href='#'>Instagram</a>
+                <a href='#'>WhatsApp</a>
+            </div>
+        </aside>
+    </div>
+    <footer>
+        <p>&copy; 2023 Your Blog Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+</pre>
